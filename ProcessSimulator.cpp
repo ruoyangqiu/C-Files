@@ -1,4 +1,4 @@
-// hw3.cpp 
+// ProcessSimulator.cpp
 // Ruoyang Qiu, Hao Li
 // 
 // This is a simulator that will simulate the execution of
